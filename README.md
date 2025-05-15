@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>🎤I am currently working on a fintech application <br>👬I am looking to collaborate on rust solana projects <br>🤲Im looking for help with scaling and market penetration <br>📝Im currently learning anchor framework <br>📢Ask me about DEFI projects <br> 💡Fun fact: I love dark humor<br>
+<br><br>🎤I am currently working on a fintech application <br>👬I am looking to collaborate on solana projects <br>🤲Im looking for help with scaling and market penetration <br>📝Im currently learning flutter dart  <br>📢Ask me about DEFI/any projects <br> 💡Fun fact: I love dark humor<br>
 
 
 ## 🌐 Socials:
